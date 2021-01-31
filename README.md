@@ -1,1 +1,1 @@
-# Car-Game
+# pip install pygame
